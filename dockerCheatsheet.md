@@ -1,0 +1,49 @@
+Daily usage of commands.
+
+### Table of Contents:
+- Install docker
+- Pull Image
+- Create Container
+- Run Container
+	- Detach mode
+	- Interactive & Exit
+	- Interactive & Detach
+	- Multiple containers
+	- Inter communication link
+	- Remove container on exit
+	- Mount:
+		- Bind
+		- In Memory
+		- Volume
+			- Read only
+	- Port forwarding
+	- Entrypoint
+	- Command
+	- Command arguments
+	- Auto restart
+	- Environment variables injection
+- Execute command into running container
+- Stop container
+- List Containers
+	- Running
+	- Non running
+	- All 
+- List images
+- Remove Images
+- Remove images forcefully
+- Access host from container
+- Inspect container
+- View history of image & container
+- Diff container
+- Remove 
+	- Running
+	- Non running
+	- All
+	- Clean all resources like volume, network etc
+- Logs
+	- View
+	- View & Watch
+	- Tail
+	- Tail and Watch
+- Tag & Commit
+- Login & Push containers to repository

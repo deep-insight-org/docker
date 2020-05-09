@@ -1,0 +1,12 @@
+- Custom Dockerfile
+	- May be some config
+	- Install additional stuff
+- Build
+- RUN 
+- tag, push
+- Custom repository
+- Build any application(any of: Java/Scala/Python)
+- Save & Load
+- Export & Import
+- Layers explanation
+- Networking
